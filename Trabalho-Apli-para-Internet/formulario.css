@@ -1,0 +1,23 @@
+.series { 
+    float:left; 
+    width: 33.33%; 
+} 
+
+.turno { 
+    float:left; 
+    width: 33.33%; 
+} 
+
+.atividade { 
+    float:right; 
+    width: 33.33%; 
+}
+
+#campo {
+    width: 50%;
+    margin-left: 25%;
+}
+
+#env, #res {
+    margin-top: 2%;
+}
